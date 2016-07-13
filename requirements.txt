@@ -1,0 +1,2 @@
+-e git+https://github.com/django/django.git@95765980e67ccde9b39548f47b6690d0ae46373f#egg=Django-automateddatamigrations
+wheel==0.24.0
